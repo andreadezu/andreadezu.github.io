@@ -232,9 +232,9 @@ fieldset[disabled] .btn-xl.active {
 }
 .logos{
     position: relative;
-    top:-30px;
+    top:-20px;
 	width:150px;
-	height:50px;
+	height:20px;
 }
 @media(min-width:768px) {
     .navbar-default {
