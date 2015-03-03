@@ -862,9 +862,9 @@ img::selection {
 }
 .logos{
     position: relative;
-    top:-30px;
-	width:200px;
-	height:80px;
+    top:-20px;
+	width:180px;
+	height:60px;
 }
 img::-moz-selection {
     background: 0 0;
